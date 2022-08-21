@@ -10,3 +10,9 @@
 ## Typescript Level: ts-loader
 - **loader**: `ts-loader`.
 - 主要用于ts转义和调试用, 类似[Typescript Playground](https://www.typescriptlang.org/play) + 界面调试
+
+
+***
+
+## 参考
+- <TypeScript开发实战>讲师:梁宵
