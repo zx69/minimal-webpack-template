@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector("#app")&&(document.querySelector("#app").innerHTML="123")})();
